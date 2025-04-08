@@ -1,4 +1,10 @@
 # rutasAli
+![image](https://github.com/user-attachments/assets/f6fe1059-df92-44e6-b425-41e6a9edace0)
+-pantalla 2
+![image](https://github.com/user-attachments/assets/08a017a9-6f1e-4306-926b-1c95bc227673)
+-pantalla 3
+![image](https://github.com/user-attachments/assets/4fe0db50-ee93-484c-9653-42370a12c68c)
+
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
